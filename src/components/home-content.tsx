@@ -25,7 +25,7 @@ interface HomeContentProps {
 export default function HomeContent({ products }: HomeContentProps) {
   return (
     <div className="min-h-screen">
-      <Header />
+{/*       <Header /> */}
       <Hero />
       
       {/* Products Section */}
