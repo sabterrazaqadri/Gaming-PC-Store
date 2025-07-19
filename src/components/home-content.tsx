@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from 'framer-motion'
-import Header from '@/components/header'
+// import Header from '@/components/header'
 import Hero from '@/components/hero'
 import Categories from '@/components/categories'
 import ProductCard from '@/components/product-card'
